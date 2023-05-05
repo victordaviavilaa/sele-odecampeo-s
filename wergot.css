@@ -1,0 +1,76 @@
+
+
+body{
+    background-image: url("/home/fcsa/Imagens/fundo1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    margin: 50px 300px;
+}
+#player1{
+    background-color: aqua;
+    left: 240px;
+    top:500px;
+    position:absolute;
+    
+    
+}
+
+#player2{
+    background-color: aqua;
+    left: 320px;
+    top:500px;
+    position:absolute;
+    
+}
+#player3{
+    background-color: aqua;
+    left: 400px;
+    top:500px;
+    position:absolute;
+    
+}
+#player4{
+    background-color: aqua;
+    left: 480px;
+    top:500px;
+    position:absolute;
+    
+}
+#player5{
+    background-color: aqua;
+    left: 560px;
+    top:500px;
+    position:absolute;
+    
+}
+
+#player6{
+    background-color: aqua;
+    left: 640px;
+    top:500px;
+    position:absolute;
+    
+}
+#player7{
+    background-color: aqua;
+    left: 720px;
+    top:500px;
+    position:absolute;
+    
+}
+#player8{
+    background-color: aqua;
+    left: 800px;
+    top:500px;
+    position:absolute;
+    
+}
+#player9{
+    background-color: aqua;
+    left: 880px;
+    top:500px;
+    position:absolute;
+    
+}
